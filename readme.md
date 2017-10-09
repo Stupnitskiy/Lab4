@@ -1,1 +1,2 @@
 [![Build Status](https://travis-ci.org/Stupnitskiy/Lab4.svg?branch=master)](https://travis-ci.org/Stupnitskiy/Lab4)
+[![codecov](https://codecov.io/gh/Stupnitskiy/Lab4/branch/master/graph/badge.svg)](https://codecov.io/gh/Stupnitskiy/Lab4)
