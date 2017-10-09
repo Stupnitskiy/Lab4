@@ -1,2 +1,3 @@
 [![Build Status](https://travis-ci.org/Stupnitskiy/Lab4.svg?branch=master)](https://travis-ci.org/Stupnitskiy/Lab4)
 [![codecov](https://codecov.io/gh/Stupnitskiy/Lab4/branch/master/graph/badge.svg)](https://codecov.io/gh/Stupnitskiy/Lab4)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/245e54cda1c34716b00aee4f0efa59f4)](https://www.codacy.com/app/Stupnitskiy/Lab4?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Stupnitskiy/Lab4&amp;utm_campaign=Badge_Grade)
